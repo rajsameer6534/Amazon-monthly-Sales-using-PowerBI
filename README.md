@@ -31,6 +31,3 @@ This project features an interactive sales report for Amazon, developed using Po
 - Adding predictive analytics for sales forecasting.  
 - Incorporating real-time data connectivity.  
 
-## Author  
-- **Subhashree Mishra**  
-  - Email: *subhashreemishra637@gmail.com*    
